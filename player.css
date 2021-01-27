@@ -1,5 +1,5 @@
 		.jumpForward {
-			background-image: url('/images/play-forward-hhu.png') !important;
+			background-image: url('https://res.cloudinary.com/dzaua3o5t/image/upload/v1611740469/play-forward-hhu_xoalwx.png') !important;
     		background-repeat: no-repeat !important;
 			background-size: contain !important;
     		background-position: initial !important;
@@ -13,7 +13,7 @@
 		 }
         
         .jumpBackward {
-    		background-image: url('/images/play-backward-hhu.png') !important;
+    		background-image: url('https://res.cloudinary.com/dzaua3o5t/image/upload/v1611740469/play-backward-hhu_uvfeev.png') !important;
 			background-repeat: no-repeat !important;
     		background-size: contain !important;
 			background-position: initial !important;
