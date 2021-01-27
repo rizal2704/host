@@ -1,5 +1,5 @@
 
-            var tag = document.querySelector('player');
+            var tag = document.querySelector('myplayer');
 			if (tag != null) {
 				tag.defaultPlaybackRate = 1.0;
 				tag.playbackRate = 1.0;
@@ -7,7 +7,7 @@
 
 			
 			function changePlaybackRate() { 
-				var tag = document.querySelector('player');
+				var tag = document.querySelector('myplayer');
                 if(tag.playbackRate != 2.0){
                     tag.playbackRate += 0.5;
                 }
